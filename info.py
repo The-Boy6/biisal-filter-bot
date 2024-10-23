@@ -27,10 +27,10 @@ USERNAME = environ.get('USERNAME', "https://telegram.me/Royal_X_RoxStar")
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002428846713'))
 MOVIE_GROUP_LINK = environ.get('MOVIE_GROUP_LINK', 'https://t.me/New_Movies_Bots')
 CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1002228576325 -1001934525883 -1002233647976 -1002152906241 -1002152906241 -1002181251938 -1002248009127').split()]
-DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://MOTI:MOTI@cluster0.ropap.mongodb.net/?retryWrites=true&w=majority")
+DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://PRIME:PRIME@cluster0.knrdh.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 
-DATABASE_NAME = environ.get('DATABASE_NAME', "motki")
-COLLECTION_NAME = environ.get('COLLECTION_NAME', 'moti')
+DATABASE_NAME = environ.get('DATABASE_NAME', "primeautobot")
+COLLECTION_NAME = environ.get('COLLECTION_NAME', 'primecollection')
 LOG_API_CHANNEL = int(environ.get('LOG_API_CHANNEL', '0'))
 QR_CODE = environ.get('QR_CODE', 'https://envs.sh/nJp.jpg')
 START_IMG = environ.get('START_IMG', 'https://iili.io/dZtVeNp.md.jpg')
