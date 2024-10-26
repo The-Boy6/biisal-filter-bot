@@ -44,7 +44,7 @@ sᴇɴᴅ ᴍᴇ ᴀɴʏ ᴍᴏᴠɪᴇ ᴏʀ sᴇʀɪᴇs ɴᴀᴍᴇ ᴀɴᴅ 
 😚 ᴍʏ ᴛʀᴜsᴛʏ sᴛᴇᴇᴅ: <a href="https://t.me/You_Want_To_Know_Me/9">ᴘʏʀᴏғᴏʀᴋ</a>
 🙏🏻 ᴍʏ ᴄʀᴇᴀᴛᴏʀ : ʟᴏʀᴅ ᴋʀɪsʜɴᴀ
 🤡 ᴍʏ ᴍᴀɴᴀɢᴇʀ : <a href="https://telegram.me/Royal_X_RoxStar">Rox࿐Star✧</a>
-🧑🏻‍💻  : <a href="https://t.me/You_Want_To_Know_Me">ʟɪɴᴋ</a>
+🧑🏻‍💻 ᴡᴇʙsɪᴛᴇ : <a href="https://ipopcornsite.blogspot.com">ʟɪɴᴋ</a>
 </b>"""
     SUPPORT_GRP_MOVIE_TEXT = '''<b>ʜᴇʏ {}
 
