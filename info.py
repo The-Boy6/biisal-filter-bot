@@ -31,7 +31,7 @@ DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://PRIME:PRIME@cluster0.k
 
 DATABASE_NAME = environ.get('DATABASE_NAME', "primeautobot")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'primecollection')
-LOG_API_CHANNEL = int(environ.get('LOG_API_CHANNEL', '0'))
+LOG_API_CHANNEL = int(environ.get('LOG_API_CHANNEL', '-1002213256087'))
 QR_CODE = environ.get('QR_CODE', 'https://envs.sh/nJp.jpg')
 START_IMG = environ.get('START_IMG', 'https://iili.io/dZtVeNp.md.jpg')
 BIN_CHANNEL = int(environ.get('BIN_CHANNEL','0'))
